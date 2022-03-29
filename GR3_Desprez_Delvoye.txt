@@ -1,2 +1,4 @@
 Delvoye Paul
 Desprez Mattéo
+explication : quand on est dans le répertoire principal, on peut voir le dossier mais pas le fichier
+
